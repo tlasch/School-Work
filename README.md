@@ -16,3 +16,5 @@ CSE project 6 is a project using Deque and Queue
 CSE Lab 9 is a Binary Tree Implementation
 
 CSE Lab 12 is using Graphs
+
+Scraping Conf is a python tool using beautiful soup to scrape a conference webpage of its html to find contacts for outbout marketing
